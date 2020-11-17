@@ -1,4 +1,8 @@
 # app-clima
+#DESCRIPCIÓN: es una spa que se conecta a una api para podes darnos detalles del clima en distintas 
+ciudades del mundo
+
+
 #Link https://chicotemaa.github.io/app-clima/
 
 ## Project setup
